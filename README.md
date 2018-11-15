@@ -1,38 +1,29 @@
-# OMI BCS
-### Olimpiada Mexicana de Informática en Baja California Sur
-![Logo](https://omibcs.github.io/img/logoomibcs.png)
-You can use the [editor on GitHub](https://github.com/OMIBCS/omibcs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Información General
+####¿Qué es la OMI?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La **Olimpiada Mexicana de Informática** (OMI) es un concurso a nivel nacional para jóvenes con facilidad para resolver problemas prácticos mediante la lógica y el uso de computadoras, que busca promover el desarrollo tecnológico en México y encontrar a los mejores programadores, quienes formarán la selección mexicana para participar en las próximas **Olimpiadas Internacionales De Informática** (IOI).
 
-### Markdown
+La OMI es un concurso en el que sobre todo se requiere tener facilidad, habilidad y voluntad de resolver problemas, utilizando la lógica, el ingenio y las computadoras.
+####Objetivos de la OMI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Los principales objetivos de la OMI son:
 
-```markdown
-Syntax highlighted code block
+* Fomentar entre los estudiantes de nivel medio superior del país, el interés por la informática y las ciencias de la computación.
+* Promover el desarrollo tecnológico en México.
+* Encontrar jóvenes talentosos dentro de estas áreas para darles apoyo en sus estudios y guía en sus inquietudes.
+* Encontrar a la mejor selección para representar a México en las Olimpiadas Internacionales de Informática (IOI) que se llevan a cabo año tras año en alguno de los países participantes.
+* Promover la amistad, convivencia e intercambio tecnológico entre jóvenes de todo el país con intereses comunes en la programación.
 
-# Header 1
-## Header 2
-### Header 3
+####Requisitos
 
-- Bulleted
-- List
+Pueden participar todos aquellos jóvenes que cumplan con los siguientes requisitos:
 
-1. Numbered
-2. List
+* Estar inscrito en alguna escuela de nivel medio, escolarizado o no escolarizado (secundaria y preparatoria)
+* Ser mexicano
+* Ser menor de 20 años a la fecha del concurso internacional (verano del siguiente año del que se inicia la OMI, la fecha exacta se detallará en la convocatoria de cada año)
+* Estar a lo más inscrito en 2° año de preparatoria o equivalente
 
-**Bold** and _Italic_ and `Code` text
+Los conocimientos y habilidades mínimas con las que deberán contar son las siguientes:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OMIBCS/omibcs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Matemáticas básicas: Aritmética, Álgebra y Trigonometría
+* Gusto y placer por resolver problemas y retos.
