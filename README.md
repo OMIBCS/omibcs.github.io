@@ -1,10 +1,12 @@
-##Información General
-####¿Qué es la OMI?
+#Información General
+
+###¿Qué es la OMI?
 
 La **Olimpiada Mexicana de Informática** (OMI) es un concurso a nivel nacional para jóvenes con facilidad para resolver problemas prácticos mediante la lógica y el uso de computadoras, que busca promover el desarrollo tecnológico en México y encontrar a los mejores programadores, quienes formarán la selección mexicana para participar en las próximas **Olimpiadas Internacionales De Informática** (IOI).
 
 La OMI es un concurso en el que sobre todo se requiere tener facilidad, habilidad y voluntad de resolver problemas, utilizando la lógica, el ingenio y las computadoras.
-####Objetivos de la OMI
+
+###Objetivos de la OMI
 
 Los principales objetivos de la OMI son:
 
@@ -14,7 +16,7 @@ Los principales objetivos de la OMI son:
 * Encontrar a la mejor selección para representar a México en las Olimpiadas Internacionales de Informática (IOI) que se llevan a cabo año tras año en alguno de los países participantes.
 * Promover la amistad, convivencia e intercambio tecnológico entre jóvenes de todo el país con intereses comunes en la programación.
 
-####Requisitos
+###Requisitos
 
 Pueden participar todos aquellos jóvenes que cumplan con los siguientes requisitos:
 
