@@ -1,0 +1,10 @@
+- name: Noticias
+  link: /
+- name: Convocatoria 2018-2019
+  link: /convocatoria
+- name: Registro estatal
+  link: /registro
+- name: Información general
+  link: /about
+- name: Contacto
+  link: /contacto

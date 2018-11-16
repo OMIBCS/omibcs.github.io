@@ -1,3 +1,9 @@
+---
+layout: default
+title: OMI BCS
+permalink: /about
+---
+
 ### Información General
 
 #### ¿Qué es la OMI?
@@ -28,4 +34,4 @@ Pueden participar todos aquellos jóvenes que cumplan con los siguientes requisi
 Los conocimientos y habilidades mínimas con las que deberán contar son las siguientes:
 
 * Matemáticas básicas: Aritmética, Álgebra y Trigonometría
-* Gusto y placer por resolver probmas y retos.
+* Gusto y placer por resolver problemas y retos.

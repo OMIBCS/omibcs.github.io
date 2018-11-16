@@ -1,4 +1,40 @@
 theme: jekyll-theme-minimal
+lang: es-MX
 logo: /assets/img/logo.png
 title: "OMI BCS"
 description: "Olimpiada Mexicana de Informática en Baja California Sur"
+permalink: /:title/
+#VARIABLES
+convocatoria:
+  file: /assets/docs/convocatoriaOmiBcs.pdf
+  name: "Convocatoria 2018-2019"
+
+twitter_username: omibcs
+
+# Build settings
+markdown: kramdown
+plugins:
+- jekyll-feed
+
+defaults:
+- scope:
+    path: "assets/img"
+  values:
+    image: true
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .idea/workspace.xml
+  - .idea/modules.xml
+  - .idea/vcs.xml
+  - .idea/omibcs.github.io.iml
