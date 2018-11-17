@@ -11,6 +11,6 @@ permalink: /convocatoria
 
 - [Consulta la convocatoria.](https://docs.google.com/viewer?url=https://omibcs.github.io/assets/docs/convocatoriaOmiBcs.pdf)
 
-  - [Realiza tu registro nacional](http://www.olimpiadadeinformatica.org.mx)
+  - [Realiza tu registro nacional en www.olimpiadadeinformatica.org.mx](http://www.olimpiadadeinformatica.org.mx/OMI/Ingreso/RegistroCorreo.aspx)
 
-  - [Realiza tu registro estatal](https://omibcs.github.io/registro)
+  - [Realiza tu registro estatal en omibcs.github.io/registro](https://omibcs.github.io/registro)
