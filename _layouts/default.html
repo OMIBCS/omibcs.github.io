@@ -20,10 +20,9 @@
     <![endif]-->
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLSLP4G"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics_body.html %}
+{% endif %}
 <div class="wrapper">
     <header>
         <h2><a href="{{ "/" | absolute_url }}">{{ site.description | default:
