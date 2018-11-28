@@ -6,7 +6,7 @@ permalink: /contacto
 ## Contacto
 
 - e-mail: 
-<a href="mailto:omibcsorg@gmail.com">omibcsorg@gmail.com</a>
+<a href="mailto:contacto@omibcs.tk">contacto@omibcs.tk</a>
 
 - Facebook: 
 [facebook.com/omibcs](https://www.facebook.com/omibcs/)
