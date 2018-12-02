@@ -3,8 +3,13 @@ layout: promo
 title: OMIBCS
 permalink: /
 ---
-<div class='fill-screen'>
-<a href="https://omibcs.tk/convocatoria">
-    <img  class='make-it-fit' src="/assets/img/omibcs_promo.png" alt="Promo"/>
-</a>
-</div>
+## Contacto
+
+- e-mail: 
+<a href="mailto:contacto@omibcs.tk">contacto@omibcs.tk</a>
+
+- Facebook: 
+[facebook.com/omibcs](https://www.facebook.com/omibcs/)
+
+- Twitter: 
+[twitter.com/omibcs](https://www.twitter.com/omibcs/)
