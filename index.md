@@ -1,5 +1,5 @@
 ---
-layout: promo
+layout: default
 title: OMIBCS
 permalink: /
 ---
