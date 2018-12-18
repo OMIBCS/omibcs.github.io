@@ -3,13 +3,13 @@ layout: default
 title: OMIBCS
 permalink: /
 ---
-## Contacto
+<h1>Últimas publicaciones</h1>
 
-- e-mail: 
-<a href="mailto:contacto@omibcs.tk">contacto@omibcs.tk</a>
-
-- Facebook: 
-[facebook.com/omibcs](https://www.facebook.com/omibcs/)
-
-- Twitter: 
-[twitter.com/omibcs](https://www.twitter.com/omibcs/)
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+    </li>
+    {% endfor %}
+</ul>
