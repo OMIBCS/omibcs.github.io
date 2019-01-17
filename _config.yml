@@ -23,9 +23,9 @@ defaults:
     path: ""
   values:
     image:
-      path:  /assets/img/logo_omibcs_squircle.png
-      height: 2464
-      width: 2464
+      path:  /assets/img/logo_omibcs_seo.png
+      height: 630
+      width: 1200
 - scope:
     path: "assets/img"
   values:
