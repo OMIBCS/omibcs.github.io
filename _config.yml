@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 lang: es
+author: Carballo
 logo: /assets/img/logo_omibcs.png
 logo_alt: "Logo OMI BCS"
 title: "OMI BCS"
@@ -21,7 +22,10 @@ defaults:
 - scope:
     path: ""
   values:
-    image: /assets/img/logo_omibcs_seo.png
+    image:
+      path:  /assets/img/logo_omibcs_seo.png
+      height: 630
+      width: 1200
 - scope:
     path: "assets/img"
   values:
