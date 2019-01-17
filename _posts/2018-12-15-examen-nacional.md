@@ -2,6 +2,7 @@
 layout: post
 title: Examen Nacional en línea
 author: Carballo
+author_twitter: Crbll
 excerpt: Está disponible el examen nacional en línea.
 date: '2018-12-16 20:00:00 -0600'
 permalink: /examen-nacional

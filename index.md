@@ -2,6 +2,7 @@
 layout: default
 title: OMIBCS
 permalink: /
+author_twitter: Crbll
 ---
 <h1>Últimas publicaciones</h1>
 

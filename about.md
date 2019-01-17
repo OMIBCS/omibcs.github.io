@@ -2,6 +2,7 @@
 layout: default
 title: OMI BCS
 permalink: /about
+author_twitter: Crbll
 ---
 
 ### Información General

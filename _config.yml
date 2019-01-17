@@ -3,6 +3,7 @@ lang: es
 author: Carballo
 logo: /assets/img/logo_omibcs.png
 logo_alt: "Logo OMI BCS"
+title_image: /assets/img/logo_omibcs.png
 title: "OMI BCS"
 description: "Olimpiada Mexicana de Informática en Baja California Sur"
 permalink: /:title/
@@ -26,11 +27,6 @@ defaults:
       path:  /assets/img/logo_omibcs_seo.png
       height: 630
       width: 1200
-    twitter:
-      site: @omibcs
-      creator: @crbll
-
-
 - scope:
     path: "assets/img"
   values:

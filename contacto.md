@@ -2,6 +2,7 @@
 layout: default
 title: Contacto
 permalink: /contacto
+author_twitter: Crbll
 ---
 ## Contacto
 

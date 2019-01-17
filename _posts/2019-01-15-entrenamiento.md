@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Carballo
+author_twitter: Crbll
 excerpt: Inician los entrenamientos estatales.
 date: '2019-01-15 20:00:00 -0600'
 title: Entrenamientos Estatales

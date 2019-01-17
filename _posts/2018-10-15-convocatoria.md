@@ -2,6 +2,7 @@
 layout: post
 title: Convocatoria 2018-2019
 author: Carballo
+author_twitter: Crbll
 excerpt: Está disponible la convocatoria y registro.
 date: '2018-10-15 20:00:00 -0600'
 permalink: /convocatoria
