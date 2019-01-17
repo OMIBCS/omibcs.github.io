@@ -21,7 +21,7 @@ defaults:
 - scope:
     path: ""
   values:
-    image: /assets/img/logo_omibcs_squircle.png
+    image: /assets/img/logo_omibcs_seo.png
 - scope:
     path: "assets/img"
   values:
