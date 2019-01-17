@@ -26,6 +26,11 @@ defaults:
       path:  /assets/img/logo_omibcs_seo.png
       height: 630
       width: 1200
+    twitter:
+      site: @omibcs
+      creator: @crbll
+
+
 - scope:
     path: "assets/img"
   values:
