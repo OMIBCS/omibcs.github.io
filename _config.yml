@@ -29,7 +29,7 @@ defaults:
         #      width: 1200
         path:  /assets/img/logo_omibcs_seo2.png
         height: 1080
-        width: 1430
+        width: 2064
   #2,056px × 1,553
   - scope:
       path: "assets/img"
