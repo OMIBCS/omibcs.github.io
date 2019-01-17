@@ -1,5 +1,7 @@
 - name: Noticias
   link: /noticias
+- name: Entrenamiento
+  link: /entrenamiento
 - name: Convocatoria 2018-2019
   link: /convocatoria
 - name: Información general
