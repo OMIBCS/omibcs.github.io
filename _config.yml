@@ -29,7 +29,6 @@ defaults:
         path:  /assets/img/logo_omibcs_seo.png
         height: 1080
         width: 2064
-      twitter_image: /assets/img/logo_omibcs_og.png
   #2,056px × 1,553
   - scope:
       path: "assets/img"
