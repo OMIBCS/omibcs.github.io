@@ -13,8 +13,8 @@ author_twitter: Crbll
 
 #### VSCode para C++
 
-[<i class="material-icons  md-18">link</i> Descargar Visual Studio Code](https://code.visualstudio.com/docs/?dv=winzip)
+<a href="https://code.visualstudio.com/docs/?dv=winzip" target="_blank">Descargar Visual Studio Code</a>
 
-[<i class="material-icons  md-18">link</i> Descargar MinGW](https://nuwen.net/files/mingw/mingw-16.1-without-git.exe)
+<a href="https://nuwen.net/files/mingw/mingw-16.1-without-git.exe" target="_blank">Descargar MinGW</a>
 
-[<i class="material-icons  md-18">link</i> Instalar extensión Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" target="_blank">Instalar extensión Code Runner</a>
